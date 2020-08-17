@@ -1,2 +1,2 @@
 # linkedlist_java
-Local Repository
+Local Repository to test basic commands in git
